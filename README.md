@@ -1,7 +1,8 @@
 
 🍳 Recipe Haven - Share & Discover Delicious Recipes
 
-![Recipe Haven Screenshot](https://recipe-haven-three.vercel.app/screenshot.png) 
+![Screenshot 2025-04-07 003142](https://github.com/user-attachments/assets/83ad5d66-c4cb-4c78-8e88-7615d9785f7f)
+
 
 **Live Demo**: [https://recipe-haven-three.vercel.app/](https://recipe-haven-three.vercel.app/)
 
